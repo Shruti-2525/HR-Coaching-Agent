@@ -67,7 +67,7 @@ Coaching Suggestions:
 (Note: This is a prototype AI model using rule-based analysis.)
 """
 
-
+# You can replace "GEMINI_API_KEY" with your api key and test
 # API integration is commented out due to quota limits, but the function can be easily switched to use the Gemini API when available.
 # from google import genai
 
