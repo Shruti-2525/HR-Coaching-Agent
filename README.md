@@ -1,8 +1,3 @@
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/d6ab0f6e-ec69-4186-9fc3-e25c5a3dfdd7" />
-
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/72d19cb9-b3c5-498b-b66c-c85bfa845143" />
-
-
 
 # 🧠 HR Coaching Intelligence Agent
 
@@ -122,13 +117,18 @@ http://localhost:8501
 
 ## 🌐 Live Demo
 
-*(Add your deployed Streamlit link here)*
+https://hr-coaching-agent-hru7uvzz5zappppcfxhiwed6.streamlit.app/
 
 ---
 
 ## 📸 Screenshots
 
-*(Add screenshots of your dashboard here)*
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/d6ab0f6e-ec69-4186-9fc3-e25c5a3dfdd7" />
+
+---
+
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/72d19cb9-b3c5-498b-b66c-c85bfa845143" />
+
 
 ---
 
